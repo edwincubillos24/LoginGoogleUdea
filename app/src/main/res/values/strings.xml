@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExLogginGoogle</string>
+
+    <string name="btnSignIn">Iniciar Sesión</string>
+    <string name="btnSignOut">Cerrar Sesión</string>
+    <string name="signed_out">^_^</string>
+    <string name="signed_out2">...</string>
+    <string name="loading">Cargando</string>
+    <string name="signed_in_fmt">Usuario: %s</string>
+    <string name="signed_in_fmt2">Correo: %s</string>
+</resources>
