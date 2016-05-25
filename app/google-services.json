@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775247247552",
+    "project_id": "strange-vortex-132200"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775247247552:android:0b28fcb716dc13cb",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.exloggingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775247247552-jrq5j30o41j75qb4sdk99q3gckvog4uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.exloggingoogle",
+            "certificate_hash": "53E2FAC6A71DE8A94CB7AA8D9E11FE0DC29EF839"
+          }
+        },
+        {
+          "client_id": "775247247552-2ddsh059hrro5pui5m06sqgn7e022qrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2rDLooK95w8ZHVq53ILA7z6P_bB86Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

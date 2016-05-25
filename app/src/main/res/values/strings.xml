@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ExLogginGoogle</string>
-
+    <string name="server_client_id">775247247552-2ddsh059hrro5pui5m06sqgn7e022qrq.apps.googleusercontent.com</string>
     <string name="btnSignIn">Iniciar Sesión</string>
     <string name="btnSignOut">Cerrar Sesión</string>
     <string name="signed_out">^_^</string>
